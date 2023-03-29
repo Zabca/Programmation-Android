@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Round Robin</string>
+    <string name="do_round_robin" translatable="false">TP1</string>
+</resources>

@@ -1,0 +1,6 @@
+
+noms des binomes:
+Agnave Sarah
+Edjeou Jacques-Phillipe
+
+le problème  que j'ai rencontrée vient du faite qu'arriver a un moment donné quand j'exécutais le code, mon application s'ouvrait sur le  telephone mais quand je clique sur le bouton ca me fait sortir complètement de l'application.  Cependant jai eu à resoudre le problème avec mon binome. 
